@@ -1,0 +1,10 @@
+ipykernel==7.1.0
+matplotlib==3.10.7
+notebook==7.4.7
+numpy==2.2.6
+networkx==3.4.2
+pandas==2.3.3
+pillow==12.0.0
+PuLP==3.3.0
+PyYAML==6.0.3
+
