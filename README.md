@@ -1,6 +1,7 @@
 # README
 
-This repository contains the code accompanying the paper **Probably Correct Optimal Stable Matching under Two-Sided Uncertainty**, submitted to **UAI** (anonymous authors).
+This repository contains the code accompanying the paper **Probably Correct Optimal Stable Matching under Two-Sided Uncertainty**, **UAI 2026**.
+Authors: Andreas Athanasopoulos, Anne-Marie George, Christos Dimitrakakis
 
 ## Repository structure
 
